@@ -9,7 +9,7 @@ Hi there, we're all about making your life easier when it comes to testing softw
 # What's Automation Testing?
 In the world of software, automation testing is all about creating scripts and using specialized tools to run tests on your applications automatically. It's like having a trusty software which checks your application for issues and tells you what's good and what needs a little extra.
 
-##With automation testing, you can:
+## With automation testing, you can:
 <ul>
 <li>Speed Up Things: Automated tests run lightning-fast, saving you time and money.</li>
 <li>Increase Reliability: Say goodbye to inconsistent results. Automation provides consistent and precise feedback.</li>
