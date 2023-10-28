@@ -12,9 +12,10 @@ In the world of software, automation testing is all about creating scripts and u
 With automation testing, you can:
 ## Built with
 <ul>
-<li> Speed Up Things: Automated tests run lightning-fast, saving you time and money.   </li>
-<li> Increase Reliability: Say goodbye to inconsistent results. Automation provides consistent and precise feedback.   <li>
-<li> Cover More Ground: Automated tests can explore multiple scenarios, ensuring comprehensive coverage.  <li> <ul>
+<li>Speed Up Things: Automated tests run lightning-fast, saving you time and money.</li>
+<li>Increase Reliability: Say goodbye to inconsistent results. Automation provides consistent and precise feedback.<li>
+<li>Cover More Ground: Automated tests can explore multiple scenarios, ensuring comprehensive coverage.<li>
+<ul>
 
 ## Our Expertise in Automation Testing
 At "Neuro Spark Work Soloutions Pvt Ltd", we're passionate about automation testing. We'll help you set up the right tools, create effective test scripts, and automate your testing process. 
