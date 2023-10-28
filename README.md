@@ -41,7 +41,7 @@ Hello there! If you're a tester seeking a robust solution for automating browser
   ## Setting Up and Installing Playwright
 Welcome to our step-by-step guide for setting up and installing Playwright, the powerful browser automation tool. Whether you're a developer or a tester, Playwright can make your life easier. Let's get started!
 #### Step 1: Prequisites
-You'll need Node.js (version 14 or higher) installed on your system. If you don't have it, download and install it from nodejs.org.
+You'll need Node.js (version 14 or higher) installed on your system. If you don't have it, download and install it from [node.js](https://nodejs.org/en)
 #### Step 2: Initiate Project
 Create a New Project: Start by creating a new directory for your Playwright project. Open your terminal or command prompt and run: 
 `npm init playwright@latest`
