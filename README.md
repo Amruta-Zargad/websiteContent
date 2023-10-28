@@ -1,8 +1,7 @@
 
-"Boost Your Software Quality with Automation Testing"
 # Welcome to Our World of Automation Testing
+"Boost Your Software Quality with Automation Testing"
 Have you ever wondered how to make your software testing more efficient, reliable, and, well, automated? You've come to the right place!
-
 Hi there, we're all about making your life easier when it comes to testing software. But before we dive into the nitty-gritty, let's have a friendly chat about what automation testing is all about.
 
 # What's Automation Testing?
