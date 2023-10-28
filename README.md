@@ -44,10 +44,41 @@ Welcome to our step-by-step guide for setting up and installing Playwright, the 
 #### Step 1: 
 You'll need Node.js (version 14 or higher) installed on your system. If you don't have it, download and install it from nodejs.org.
 #### Step 2:
-Create a New Project: Start by creating a new directory for your Playwright project. Open your terminal or command prompt and run: npm init playwright@latest
+Create a New Project: Start by creating a new directory for your Playwright project. Open your terminal or command prompt and run: 
+npm init playwright@latest
 <ul>
 <li>Choose between TypeScript or JavaScript (default is TypeScript) </li>
 <li>Name of your Tests folder (default is tests or e2e if you already have a tests folder in your project) </li>
 <li>Add a GitHub Actions workflow to easily run tests on CI </li>
 <li>Install Playwright browsers (default is true) </li>
 </ul>
+
+#### Step 3:
+ Install Playwright
+Now, it's time to install Playwright as a dependency in your project. Run: npm install playwright
+#### Step 4:
+Select the Browsers :- You can choose which browsers to install. By default, Playwright installs Chromium, Firefox, and WebKit (Safari). If you want to install a specific browser, run one of the following:
+<ul>
+<li>For Chromium: npm install playwright-chromium </li>
+<li>For Firefox: npm install playwright-firefox   </li>
+<li>For Safari: npm install playwright-webkit  </li>
+
+#### Step 5:
+Sample Script 
+const { chromium } = require('playwright');
+
+(async () => {
+  const browser = await chromium.launch();
+  const context = await browser.newContext();
+  const page = await context.newPage();
+
+  // Your automation code goes here
+
+  await browser.close();
+})();
+#### Step 6:
+Running the Sample Test Script: npx playwright test
+
+Feel free to customize and style these steps to match your website's design and branding. Providing a clear and concise guide on setting up Playwright will be valuable to your website's visitors who are looking to get started with this automation tool.
+
+## Thank you for being a part of our journey. 
