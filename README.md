@@ -199,4 +199,8 @@ As playwright seperate comments are not required. You can run your Selenium test
 
 <img width="790" alt="new" src="https://github.com/Amruta-Zargad/websiteContent/assets/149228649/0e69f1e3-0a88-4e81-81b4-b039be58bc20">
 
+                     OR
+
+<img width="565" alt="run" src="https://github.com/Amruta-Zargad/websiteContent/assets/149228649/fcab4f6f-e5f5-49f6-97fd-830566753a7e">
+
 ## Thank you for being a part of our journey. 
