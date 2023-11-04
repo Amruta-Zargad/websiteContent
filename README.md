@@ -198,6 +198,8 @@ public class SeleniumSampleScript {
 As playwright seperate comments are not required. You can run your Selenium tests directly from your IDE or by using build automation tools like Maven.
 
 <img src="../Images/Screenshot 2023-11-04 141123.png">
+<img width="564" alt="image" src="https://github.com/Amruta-Zargad/websiteContent/assets/149228649/72fe5d63-dfc7-4c82-a7e2-01b731ee20d3">
+
 
 
 ## Thank you for being a part of our journey. 
