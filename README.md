@@ -197,7 +197,7 @@ public class SeleniumSampleScript {
 #### Step 8: Run your test script
 As playwright seperate comments are not required. You can run your Selenium tests directly from your IDE or by using build automation tools like Maven.
 
-<img src="![Alt text](image.png)">
+<img src="./image.png">
 
 
 ## Thank you for being a part of our journey. 
