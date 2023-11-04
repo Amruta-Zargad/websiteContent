@@ -25,6 +25,8 @@ Selenium with Java allows you to create and execute tests that interact with web
 
 Both Playwright with TypeScript and Selenium with Java have their unique advantages, and the choice between them often depends on your specific project requirements, your team's expertise, and your preference for the language and ecosystem you're more comfortable with. These combinations empower automation engineers to ensure the quality and reliability of web applications across various platforms and scenarios.
 
+<img width="646" alt="cycle" src="https://github.com/Amruta-Zargad/websiteContent/assets/149228649/f20e438e-d3a9-41c2-81ad-d7710057adea">
+
 ## Here are some common use cases of Playwright & Selenium in a project:
 1. End-to-End Testing (E2E): Playwright is widely used for automating end-to-end tests, ensuring that an application behaves as expected from the user's perspective. It can simulate user interactions, such as clicking buttons, filling out forms, and navigating through pages to validate the application's functionality.
 2. Regression Testing: Playwright can be employed to automate regression tests, which help ensure that recent code changes or updates haven't introduced new defects or negatively impacted existing features. By running automated tests regularly, you can catch regressions early in the development cycle.
@@ -33,6 +35,8 @@ Both Playwright with TypeScript and Selenium with Java have their unique advanta
 5. Accessibility Testing: Playwright includes features for accessibility testing. You can use it to assess your application's compliance with web accessibility standards like WCAG and identify potential accessibility issues that could affect users with disabilities.
 6. Continuous Integration (CI) and Continuous Deployment (CD): Playwright can be integrated into your CI/CD pipelines to run tests automatically when code changes are committed. This ensures that the application works as expected after each build and deployment, helping maintain a high level of quality.
 7. Data-Driven Testing: Playwright can be used for data-driven testing, where you feed different sets of data to your test scripts to validate the application's behavior under various conditions and scenarios.
+
+<img width="543" alt="benifits" src="https://github.com/Amruta-Zargad/websiteContent/assets/149228649/eea3ea27-da8a-46b9-8003-0db1dc59778b">
 
 # Unlocking the Power of Playwright tool
 
@@ -46,6 +50,8 @@ In simple terms, Playwright is an open-source automation tool that lets you writ
 <li> Reliable and Fast: It's super reliable, and its speedy performance saves you time and money. </li>
 <li> Endless Possibilities: You can automate tasks, test user interactions, and even take screenshots or capture performance data - all with Playwright. </li>
 </ul>
+
+<img width="661" alt="playwright" src="https://github.com/Amruta-Zargad/websiteContent/assets/149228649/18a97198-bf63-4304-83a2-edc0b81f5a40">
 
 ## Exploring the Magic of Playwright: 
 Hello there! If you're a tester seeking a robust solution for automating browser tasks, you're in for a treat. Allow us to introduce you to Playwright, the browser automation tool that can do wonders for your web projects. Let's take a look at some of its most compelling features:
@@ -133,6 +139,8 @@ Feel free to customize and style these steps to match your website's design and 
 
 So, whether you're a seasoned developer or just starting your journey into web testing, Selenium is your go-to companion. It's all about elevating the quality of web applications. Ready to dive into the world of Selenium? Let's explore and automate the web together!
 
+<img width="407" alt="selenium" src="https://github.com/Amruta-Zargad/websiteContent/assets/149228649/fa778353-2527-4da9-8a68-3d15a6bac990">
+
 ## Installation process of Selenium with Java
 Installing Selenium with Java involves several steps. Selenium is a popular tool for automating web applications, and it integrates well with Java. Here's a step-by-step guide to install Selenium with Java:
 
@@ -199,7 +207,7 @@ As playwright seperate comments are not required. You can run your Selenium test
 
 <img width="790" alt="new" src="https://github.com/Amruta-Zargad/websiteContent/assets/149228649/0e69f1e3-0a88-4e81-81b4-b039be58bc20">
 
-                     OR
+                                    OR
 
 <img width="565" alt="run" src="https://github.com/Amruta-Zargad/websiteContent/assets/149228649/fcab4f6f-e5f5-49f6-97fd-830566753a7e">
 
