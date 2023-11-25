@@ -143,6 +143,15 @@ Feel free to customize and style these steps to match your website's design and 
 
 - Active Community: With a thriving community of developers and testers, you'll always find support and resources to navigate the world of web automation.
 
+Selenium supports multiple programming languages, making it flexible and easy for testers to use. With Selenium, testers and developers can write test scripts in a language they are comfortable with. Selenium supports the following programming languages:
+Java
+C#
+Ruby
+Python
+JavaScript (Node.js)
+
+Each browser and language has its own dedicated drivers and bindings that enable seamless interaction between the Selenium framework and the browser or programming environment. This extensive support empowers teams to create robust and flexible automated testing suites tailored to their project requirements.
+
 So, whether you're a seasoned developer or just starting your journey into web testing, Selenium is your go-to companion. It's all about elevating the quality of web applications. Ready to dive into the world of Selenium? Let's explore and automate the web together!
 
 <p align="center">
@@ -222,6 +231,28 @@ As playwright seperate comments are not required. You can run your Selenium test
 <p align="center">
 <img width="565" alt="run" src="https://github.com/Amruta-Zargad/websiteContent/assets/149228649/fcab4f6f-e5f5-49f6-97fd-830566753a7e">
 </p>
+
+#### Step 9: Use TestNG or JUnit to run the test script
+Choose a testing framework like TestNG or JUnit to manage your test cases. These frameworks help in grouping, prioritizing, and running your tests.
+TestNG: TestNG is a testing framework inspired by JUnit and NUnit but introduces some new functionalities and is designed to be more flexible and easier to use.
+How to install and Add TestNG in Eclipse
+ 1: Navigate to Eclipse Marketplace
+
+
+ 2: Search for TestNG and click on install.
+
+Note: After the plugin is installed, restart the Eclipse IDE
+
+Install TestNG Plugin in Eclipse
+As the plugin is installed, you can see Options like Run All, Run | Debug in the editor itself, and clicking on Run above the TestNG Test will execute the test likewise Debug will allow debugging the test.
+
+After TestNG Plugin is Installed and Configured
+Adding a TestNG plugin within the Eclipse IDE helps in making the test execution easier by directly running the tests inside the Text Editor itself. Hence, it is recommended to configure the TestNG Plugin in Eclipse to run Unit Tests.
+
+Creating Sample Maven Project by adding TestNG dependency
+
+JUnit: JUnit is a widely used testing framework for Java. Selenium can be integrated with JUnit to perform testing.
+
 
 That's it! You've successfully installed Selenium with Java and are ready to start automating your web testing. Remember that Selenium is a powerful tool with a variety of functionalities, so you may need to explore its documentation and other resources to create more advanced test scenarios.
 
