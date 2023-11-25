@@ -237,22 +237,27 @@ Choose a testing framework like TestNG or JUnit to manage your test cases. These
 TestNG: TestNG is a testing framework inspired by JUnit and NUnit but introduces some new functionalities and is designed to be more flexible and easier to use.
 How to install and Add TestNG in Eclipse
  1: Navigate to Eclipse Marketplace
-
+<p align="center">
+<img width="533" alt="Screenshot 2023-11-25 124515" src="https://github.com/Amruta-Zargad/websiteContent/assets/149228649/da22b2ef-b51f-4eb0-bb8b-a7b666d74875">
+</p>
 
  2: Search for TestNG and click on install.
-
 Note: After the plugin is installed, restart the Eclipse IDE
 
+<p align="center">
+<img width="586" alt="Screenshot 2023-11-25 134031" src="https://github.com/Amruta-Zargad/websiteContent/assets/149228649/f479a566-30bb-4ad2-96dd-efd772611307">
+</p>
+
 Install TestNG Plugin in Eclipse
-As the plugin is installed, you can see Options like Run All, Run | Debug in the editor itself, and clicking on Run above the TestNG Test will execute the test likewise Debug will allow debugging the test.
+As the plugin is installed, you can see Options like Run All, Run | Debug in the editor itself, and clicking on Run above the TestNG Test will execute the test likewise Debug will allow debugging the test. The dependency in your project should look like the following:
+<p align="center">
+<img width="452" alt="Screenshot 2023-11-25 134616" src="https://github.com/Amruta-Zargad/websiteContent/assets/149228649/21967a6a-4dcb-4abc-90b5-d35508d21c1e">
+</p>
 
 After TestNG Plugin is Installed and Configured
 Adding a TestNG plugin within the Eclipse IDE helps in making the test execution easier by directly running the tests inside the Text Editor itself. Hence, it is recommended to configure the TestNG Plugin in Eclipse to run Unit Tests.
 
 Creating Sample Maven Project by adding TestNG dependency
-
-JUnit: JUnit is a widely used testing framework for Java. Selenium can be integrated with JUnit to perform testing.
-
 
 That's it! You've successfully installed Selenium with Java and are ready to start automating your web testing. Remember that Selenium is a powerful tool with a variety of functionalities, so you may need to explore its documentation and other resources to create more advanced test scenarios.
 
